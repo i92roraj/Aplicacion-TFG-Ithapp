@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672954509821",
+    "project_id": "ithapp-d147e",
+    "storage_bucket": "ithapp-d147e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672954509821:android:f8f71856fc22cdd5fe1194",
+        "android_client_info": {
+          "package_name": "com.mycompany.ithapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgoZbthnv6VgRDiiotEMF8giXnwvXvWMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

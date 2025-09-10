@@ -1,0 +1,2 @@
+C:/Users/Usuario/Downloads/ithapp/android/app/.cxx/RelWithDebInfo/4v4w4u4n/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Downloads/ithapp/android/app/.cxx/RelWithDebInfo/4v4w4u4n/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/Usuario/Downloads/ithapp/android/app/.cxx/RelWithDebInfo/4v4w4u4n/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Downloads/ithapp/android/app/.cxx/RelWithDebInfo/4v4w4u4n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
